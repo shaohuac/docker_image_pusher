@@ -1,2 +1,11 @@
-
-confluentinc/cp-kafka:7.4.0
+acryldata/datahub-actions:0.15.0.5
+acryldata/datahub-frontend-react:0.15.0.5
+acryldata/datahub-gms:0.15.0.5
+acryldata/datahub-upgrade:0.15.0.5
+elasticsearch:7.10.1
+acryldata/datahub-elasticsearch-setup:0.15.0.5
+acryldata/datahub-kafka-setup:0.15.0.5
+mysql:8.2
+acryldata/datahub-mysql-setup:0.15.0.5
+confluentinc/cp-schema-registry:7.4.0
+confluentinc/cp-zookeeper:7.4.0
