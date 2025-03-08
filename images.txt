@@ -1,1 +1,1 @@
-atlas-kafka:latest
+atlas-kafka:2.8.2
